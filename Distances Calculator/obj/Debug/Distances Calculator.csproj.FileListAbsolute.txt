@@ -1,0 +1,6 @@
+c:\users\hrant\documents\visual studio 2015\Projects\Distances Calculator\Distances Calculator\bin\Debug\Distances Calculator.exe.config
+c:\users\hrant\documents\visual studio 2015\Projects\Distances Calculator\Distances Calculator\bin\Debug\Distances Calculator.exe
+c:\users\hrant\documents\visual studio 2015\Projects\Distances Calculator\Distances Calculator\bin\Debug\Distances Calculator.pdb
+c:\users\hrant\documents\visual studio 2015\Projects\Distances Calculator\Distances Calculator\obj\Debug\Distances Calculator.csprojResolveAssemblyReference.cache
+c:\users\hrant\documents\visual studio 2015\Projects\Distances Calculator\Distances Calculator\obj\Debug\Distances Calculator.exe
+c:\users\hrant\documents\visual studio 2015\Projects\Distances Calculator\Distances Calculator\obj\Debug\Distances Calculator.pdb
